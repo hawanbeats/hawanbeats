@@ -8,7 +8,7 @@
     <a href="https://open.spotify.com/user/ddryf0tgbpq8oz8v6vbkfucy3?si=7pDlvChNS9mSz2ek3S4M-Q&nd=1" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
   <code><a href="https://www.youtube.com/channel/UCH90Kaz_h0F1iejRh_lZsMQ" title="Youtube Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-youtube-1.svg"> Youtube</a></code>
   <code><a href="https://t.me/haswes" title="Telegram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-telegram-1.svg"> Telegram</a></code>
-  <code><a href="https://www.instagram.com/hasantaclause/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/hasantaclause/" title="Instagram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeats/blob/main/iconmonstr-instagram-11.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
