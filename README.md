@@ -6,7 +6,9 @@
 <h5 align="center">
   <code>
     <a href="https://open.spotify.com/user/ddryf0tgbpq8oz8v6vbkfucy3?si=7pDlvChNS9mSz2ek3S4M-Q&nd=1" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  
+  <code><a href="https://www.youtube.com/channel/UCH90Kaz_h0F1iejRh_lZsMQ" title="Youtube Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-youtube-1.svg"> Youtube</a></code>
+  
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
