@@ -12,12 +12,12 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hasan DAMİRLİ, Mechatronics from Azerbaijan
+  Hi, I'm Hasan DAMİRLİ, Mechatronics Engineer from Azerbaijan
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in Yildiz Technical University Mechanical Engineering Department 
+  🔬 I'm currently studying for a bachelor's degree in Yildiz Technical University Mechanical Engineering Department at Istanbul,Turkey
   <br>
-  🎓 I graduated school 236
+  🎓 I graduated school 236 at Baku,Azerbaijan
   <br>
   💻 I love writing code and learn anythings about it
   <br>
