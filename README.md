@@ -1,29 +1,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20views&color=0e75b6&style=flat" alt="hawanbeats" /> </p>
 <br>
 <h3 align="center">
-  Hello there, I'm Hasan 👋
+  Hello there, I'm Hawan 👋
 </h3>
 <h5 align="center">
   <code>
     <a href="https://open.spotify.com/user/ddryf0tgbpq8oz8v6vbkfucy3?si=7pDlvChNS9mSz2ek3S4M-Q&nd=1" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
-  <code><a href="https://www.youtube.com/channel/UCH90Kaz_h0F1iejRh_lZsMQ" title="Youtube Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-youtube-1.svg"> Youtube</a></code>
   <code><a href="https://t.me/haswes" title="Telegram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-telegram-1.svg"> Telegram</a></code>
-  <code><a href="https://www.instagram.com/hasantaclause/" title="Instagram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeats/blob/main/iconmonstr-instagram-11.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hasan DAMİRLİ, Mechatronics Engineer from Azerbaijan
-  <br>
-  <br>
-  🔬 I'm currently studying for a bachelor's degree in Yildiz Technical University Mechanical Engineering Department at Istanbul,Turkey
-  <br>
-  🎓 I graduated school 236 at Baku,Azerbaijan
+  Hi, I'm Hawan Beats
   <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning how to build chegg bot for discord
   <br>
-  📫 How to reach me: <a href="mailto: damirlihasan2002@gmail.com">damirlihasan2002@gmail.com</a>
 </p>
 
 <hr>
