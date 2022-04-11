@@ -1,5 +1,3 @@
-
-[![Code style: black](./black_badge.svg)](https://github.com/psf/black)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20views&color=0e75b6&style=flat" alt="hawanbeats" /> </p>
