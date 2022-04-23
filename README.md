@@ -1,7 +1,6 @@
 <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/made-with-html.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20views&color=0e75b6&style=flat" alt="hawanbeats" /> </p>
-<br>
-<h2 align="left">
+<h2 align="center">
   Hello there, I'm Hawan 👋
 </h2>
 <h5 align="center">
