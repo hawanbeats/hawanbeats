@@ -6,7 +6,7 @@
 </h1>
 <h5 align="center">
   <code>
-    <a href="https://open.spotify.com/user/ddryf0tgbpq8oz8v6vbkfucy3?si=7pDlvChNS9mSz2ek3S4M-Q&nd=1" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
+    <a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
   <code><a href="https://t.me/haswes" title="Telegram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-telegram-1.svg"> Telegram</a></code>
 </h5>
 <br>
