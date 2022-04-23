@@ -11,7 +11,6 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hawan Beats
   <br>
   💻 I love writing code and learn anythings about it
 </p>
