@@ -23,9 +23,9 @@
 <!-- status codes -->
 <a align="center">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hawanbeats&show_icons=true&count_private=true&theme=dark" alt="my github stats" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawanbeats&layout=compact&theme=dark" alt="languages" height="165">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats" alt="summary card"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats" width="420"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages" height="165">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats&theme=vue" alt="summary card"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawanbeats&theme=dark" alt="streak stats"/>
     </p>
 </a>
