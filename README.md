@@ -14,9 +14,6 @@
   Hi, I'm Hawan Beats
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build chegg bot for discord
-  <br>
 </p>
 
 <hr>
