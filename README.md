@@ -3,7 +3,7 @@
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
                  <img src="https://badges.pufler.dev/repos/hawanbeats" alt="repos"/>
                  <a href="https://discord.gg/rhYMV5mggz"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> </p>
-<p align="center">
+<p align="left">
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
