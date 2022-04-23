@@ -11,7 +11,6 @@
 </h5>
 <br>
 <p align="center">
-  <br>
   💻 I love writing code and learn anythings about it
 </p>
 
