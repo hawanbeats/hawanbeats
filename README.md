@@ -1,9 +1,9 @@
 <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/made-with-html.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20views&color=0e75b6&style=flat" alt="hawanbeats" /> </p>
 <br>
-<h3 align="center">
+<h1 align="center">
   Hello there, I'm Hawan 👋
-</h3>
+</h1>
 <h5 align="center">
   <code>
     <a href="https://open.spotify.com/user/ddryf0tgbpq8oz8v6vbkfucy3?si=7pDlvChNS9mSz2ek3S4M-Q&nd=1" title="Spotify Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/iconmonstr-spotify-1.svg"> Spotify</a></code>
