@@ -26,7 +26,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats&theme=vue" alt="summary card"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawanbeats&theme=dark" alt="streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawanbeats" alt="streak stats"/>
     </p>
 </a>
 
