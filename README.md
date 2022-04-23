@@ -26,4 +26,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hawanbeats&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawanbeats&layout=compact" alt="languages" height="165">
     </p>
 </a>
-<a href="https://activity-graph.herokuapp.com/graph?username=hawanbeats&theme=minimal"/>
+<a align="center" href="https://activity-graph.herokuapp.com/graph?username=hawanbeats&theme=minimal"> 
