@@ -23,7 +23,7 @@
 <!-- status codes -->
 <a align="center">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hawanbeats&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=hawanbeats&show_icons=true&count_private=true&theme=radical" alt="my github stats" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawanbeats&layout=compact" alt="languages" height="165">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats&theme=vue" alt="summary card"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawanbeats" alt="streak stats"/>
