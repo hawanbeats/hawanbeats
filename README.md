@@ -1,5 +1,6 @@
 <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/made-with-html.svg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <a href="https://discord.gg/rhYMV5mggz"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <a href="https://discord.gg/rhYMV5mggz"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/> </p>
 <h2 align="center">
   Hello there, I'm Hawan 👋
 </h2>
