@@ -18,7 +18,7 @@
 <h2 align="center">Github Stats</h2>
 
 <!-- status codes -->
-<a align="center">
+<a align="center"> 
     <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages"/>
