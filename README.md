@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/made-with-html.svg">
                  <a href="https://www.youtube.com/channel/UCH90Kaz_h0F1iejRh_lZsMQ">
                  <img src="https://img.shields.io/youtube/channel/subscribers/UCH90Kaz_h0F1iejRh_lZsMQ?logo=youtube&style=for-the-badge" alt="youtube subscriber"/></a>
+                 <a href="https://www.youtube.com/channel/UCH90Kaz_h0F1iejRh_lZsMQ">
+                 <img src="https://img.shields.io/youtube/channel/views/UCH90Kaz_h0F1iejRh_lZsMQ?logo=youtube&style=for-the-badge" alt="youtube views"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
                  <img src="https://badges.pufler.dev/repos/hawanbeats" alt="repos"/>
