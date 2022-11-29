@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <h2 align="center">
-  Hello from <img src="https://user-images.githubusercontent.com/72316307/204609114-528a8694-3188-4f30-bc31-1487ddb58d45.png" width="13"/>, I'm Hawan 👋
+  Hello from <img src="https://user-images.githubusercontent.com/72316307/204609114-528a8694-3188-4f30-bc31-1487ddb58d45.png" width="15"/>, I'm Hawan 👋
 </h2>
 <h5 align="center">
   <code>
