@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <h5 align="center">
-   <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
   <code>
     <a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" target="_blank" title="Spotify Profile">                                                            <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298766_spotify_music_sound_icon.png" width="22"> Spotify</a></code>
   <code><a href="https://t.me/haswes" target="_blank" title="Telegram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/3787425_telegram_logo_messanger_social_social media_icon.png"> Telegram</a></code>
@@ -17,6 +16,7 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
 <h2 align="center">Github Stats</h2>
 
 <!-- status codes -->
