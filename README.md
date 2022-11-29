@@ -5,7 +5,6 @@
                  <img src="https://img.shields.io/youtube/channel/views/UCH90Kaz_h0F1iejRh_lZsMQ?logo=youtube&style=for-the-badge" alt="youtube views"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-                 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <h2 align="center">
   Hello there, I'm Hawan 👋
 </h2>
@@ -19,6 +18,7 @@
 <p align="center"> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/CPP.svg" alt="c++" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Python-Dark.svg" alt="python" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/HTML.svg" alt="html" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/CSS.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> <a href="http://github.com/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Github-Dark.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/Blender-Dark.svg" alt="blender" width="40" height="40"/> </a> </p>
 </p>
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <h2 align="center">Github Stats</h2>
 
 <!-- status codes -->
