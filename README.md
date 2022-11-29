@@ -5,7 +5,7 @@
                  <img src="https://img.shields.io/youtube/channel/views/UCH90Kaz_h0F1iejRh_lZsMQ?logo=youtube&style=for-the-badge" alt="youtube views"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-                 <img src="https://img.shields.io/github/stars/hawanbeats?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" alt="github stars"/>
+                 <img src="https://img.shields.io/github/stars/hawanbeats?affiliations=OWNER&color=%233082dd&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" alt="github stars"/>
 <h5 align="center">
   <code>
     <a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" target="_blank" title="Spotify Profile">                                                            <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298766_spotify_music_sound_icon.png" width="22"> Spotify</a></code>
