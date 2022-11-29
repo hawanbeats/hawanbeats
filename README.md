@@ -26,3 +26,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages"/>
     </p>
 </a>
+<a align="center">
+     <p align="center">
+     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  </p>
+
