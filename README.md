@@ -16,7 +16,7 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
-<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 <h2 align="center">Github Stats</h2>
 
 <!-- status codes -->
