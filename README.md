@@ -8,7 +8,7 @@
 <h5 align="center">
    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
   <code>
-    <a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" target="_blank" width="30" title="Spotify Profile">                                                             <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298766_spotify_music_sound_icon.png"> Spotify</a></code>
+    <a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" target="_blank" title="Spotify Profile">                                                            <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298766_spotify_music_sound_icon.png" width="22"> Spotify</a></code>
   <code><a href="https://t.me/haswes" target="_blank" title="Telegram Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/3787425_telegram_logo_messanger_social_social media_icon.png"> Telegram</a></code>
   <code><a href="https://youtube.com/c/hawanbeats" target="_blank" title="Youtube Profile"><img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298778_youtube_play_video_icon.png"> Youtube</a></code>
 </h5>
