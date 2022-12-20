@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawanbeats&label=Profile%20Views&color=0e75b6&style=flat" alt="hawanbeats"/> 
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
                  <img src="https://img.shields.io/github/stars/hawanbeats?affiliations=OWNER&color=%232fb236&label=github%20stars&logo=github&logoColor=%23fffffd&style=flat" alt="github stars"/>
-<h5 align="center">
+<h5 align="left">
   <code><a href="https://open.spotify.com/user/kao1tlkoin2bll4indi4ferhk" target="_blank" title="Spotify Profile">                                                       <img src="https://github.com/hawanbeats/hawanbeatss/blob/main/1298766_spotify_music_sound_icon.png" width="22"> Spotify</a></code>
   <code><a href="https://t.me/haswes" target="_blank" title="Telegram Profile">
   <img width="22" src="https://github.com/hawanbeats/hawanbeatss/blob/main/3787425_telegram_logo_messanger_social_social media_icon.png"> Telegram</a></code>
