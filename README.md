@@ -19,5 +19,6 @@
 </a>
 <a align="center">
      <p align="center">
+      <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
      <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Github Stats" />
   </p>
