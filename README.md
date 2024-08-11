@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio">
 </p>
 
-
-<!-- status codes -->
 <a align="center"> 
     <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats"/>
