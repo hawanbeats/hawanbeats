@@ -7,6 +7,11 @@
                  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
                  <img src="https://img.shields.io/github/stars/hawanbeats?affiliations=OWNER&color=%232fb236&label=github%20stars&logo=github&logoColor=%23fffffd&style=flat" alt="github stars"/>
 </p>
+<p align="center"> 
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">
+</p>
+
 
 <!-- status codes -->
 <a align="center"> 
