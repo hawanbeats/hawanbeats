@@ -15,7 +15,7 @@
     <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats&theme=default" alt="github stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula"/>
     </p>
 </a>
 <a align="center">
