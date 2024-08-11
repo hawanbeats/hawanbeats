@@ -15,10 +15,10 @@
     <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawanbeats&theme=vue" alt="my github stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawanbeats&theme=vue" alt="languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawanbeats&theme=default" alt="github stats"/>
     </p>
 </a>
 <a align="center">
      <p align="center">
-      <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
      <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Github Stats" />
   </p>
