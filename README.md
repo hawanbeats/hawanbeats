@@ -8,6 +8,7 @@
                  <img src="https://img.shields.io/github/stars/hawanbeats?affiliations=OWNER&color=%232fb236&label=github%20stars&logo=github&logoColor=%23fffffd&style=flat" alt="github stars"/>
 </p>
 <p align="center"> 
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio">
